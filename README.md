@@ -20,7 +20,7 @@ In this project:
 - **Evaluation**: BLEU score is calculated to evaluate the performance of the captioning model on the validation dataset.
 
 ## Requirements
-- Python 3.x
+- Python 3.12
 - PyTorch
 - Transformers
 - NLTK
